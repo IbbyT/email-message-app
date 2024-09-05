@@ -1,4 +1,11 @@
 # email-message-app
+Overview:
+Contact Management Web Application
+
+- Built a RESTful web service using Flask, SQLAlchemy, and CORS for contact management, allowing users to create, update, delete, and view contacts.
+- Integrated SQLite as the database to store contact information and implemented error handling to ensure data integrity.
+- Designed and developed API endpoints to manage contact records, handling both CRUD operations and data validation.
+- Ensured cross-origin resource sharing to allow the frontend and backend to communicate seamlessly.
 
 Steps:
 1. Create backend folder
